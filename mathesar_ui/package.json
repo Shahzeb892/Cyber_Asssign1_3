@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
-    "@popperjs/core": "^2.11.6",
+    "@popperjs/core": "^2.11.8",
     "dayjs": "^1.11.5",
     "fast-diff": "^1.2.0",
     "flatpickr": "^4.6.13",
