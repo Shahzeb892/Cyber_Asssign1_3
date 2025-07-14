@@ -3,3 +3,4 @@ mkdocs-material==8.5.11
 mkdocs-redirects==1.2.0
 mkdocs-macros-plugin==0.7.0
 mkdocs-placeholder-plugin==0.3.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
